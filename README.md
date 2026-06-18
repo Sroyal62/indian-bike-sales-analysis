@@ -41,4 +41,4 @@ Multi-dimensional Analysis
 Easy-to-understand visuals
 
 dataset:
-bike project.xlsx
+https://github.com/Sroyal62/indian-bike-sales-analysis/blob/main/bike%20project.xlsx
